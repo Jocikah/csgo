@@ -42,6 +42,7 @@ html{
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     opacity: none;
+    text-decoration: none;
 }
 
 
@@ -77,5 +78,9 @@ h2{
 }
 
 body{
-    background-image: url("kepek/147188.png");  
+    background-image: url("kepek/147188.png");
+}
+
+#ladakep{
+    width: 300px;
 }
