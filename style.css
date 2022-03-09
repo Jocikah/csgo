@@ -1,0 +1,77 @@
+html{
+    background-image: url("kepek/147188.png");  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    scroll-behavior: smooth;
+    display: inline-block;
+}
+
+#felsopanel{
+    background-color: rgba(0, 0, 0, 0.9);
+    width: 40%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    
+    
+}
+
+#kozepsopanel{
+    background-color: rgba(0, 0, 0, 0.9);
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+    
+
+}
+
+.link{
+    margin-right:5px;
+    margin-left: 5%;
+    border-top: 10px;
+    color: rgb(252, 164, 0);
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: none;
+}
+
+
+.CS{
+    color: orange;
+    opacity: none   ;
+}
+
+.kep{
+    width: 90%;
+    margin-right: 0px;
+
+}
+
+#csgokep{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 30%;
+
+    
+}
+
+.cim{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: none;
+    margin-top: 5px;
+}
+
+h2{
+    margin-left: 15px;
+}
